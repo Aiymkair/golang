@@ -1,0 +1,3 @@
+ALTER TABLE users DROP COLUMN email;
+ALTER TABLE users DROP COLUMN age;
+ALTER TABLE users DROP COLUMN created_at;
